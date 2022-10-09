@@ -1,2 +1,2 @@
 # BIStudy_Python_1
-BI勉強会第5回目
+BI勉強会第7回目
